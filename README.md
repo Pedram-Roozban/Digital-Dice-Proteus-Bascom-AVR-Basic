@@ -9,7 +9,7 @@ We used following things in this project:
 
 For using this project you just simply need to do following things:
 - Open Proteus softeware(Run as admin) and then open The Digital_Dice_Circuit_Design.pdsprj file with it.
-- Right click on Atmega 32 and then click on "Edit properties" or just simply Double click on Atmega 16.
+- Right click on Atmega 16 and then click on "Edit properties" or just simply Double click on Atmega 16.
 - Give it the .obj or .hex porgram files.
 - Set CKSEL Fuses to Int.Rc 8MHz.
 - Click Ok.
